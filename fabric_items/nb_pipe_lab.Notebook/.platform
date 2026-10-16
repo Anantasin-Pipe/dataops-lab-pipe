@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_pipe_lab"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "74718b26-ae99-a2ae-4ee9-9f396302a3f2"
+  }
+}
